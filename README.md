@@ -1,2 +1,2 @@
 # Catatan-belajar-CEH-Practical
-Catatan belajar dan dokumentasi persiapan sertifikasi CEH Practical
+Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya dalam memahami materi Certified Ethical Hacker (CEH) Practical.
