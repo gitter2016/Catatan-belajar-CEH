@@ -18,3 +18,6 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
    - Wait for the Status to change from Requested to Done. Once it is completed, click the Done button under the Status column to view the vulnerabilities found in the target system.
      ![OpenVAS interface 4](https://github.com/user-attachments/assets/28cbf9e0-f4c1-4cf1-ae97-4eb3d4ec0f6c)
 
+   - Click on any vulnerability under the Vulnerability column to view its detailed information.
+ 6. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
+
