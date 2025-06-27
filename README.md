@@ -7,6 +7,8 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 4. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555
 5. Cara menggunakan OpenVAS: login to OpenVAS and do the following
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
+      ![OpenVAS interface 1](https://github.com/user-attachments/assets/20a88f49-9d00-48e9-b0f1-0d7d6140bd19)
+
    -  Hover over wand icon and click the Task Wizard option.
    -  The Task Wizard window appears; enter the target IP address in the IP address or hostname field (here, the target system is Windows Server 2022 [10.10.1.22]) and click the Start Scan button.
    - Wait for the Status to change from Requested to Done. Once it is completed, click the Done button under the Status column to view the vulnerabilities found in the target system.
