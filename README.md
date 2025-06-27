@@ -20,4 +20,6 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 
    - Click on any vulnerability under the Vulnerability column to view its detailed information.
  6. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
+ 7. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
+ 8. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap
 
