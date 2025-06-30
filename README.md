@@ -1,11 +1,12 @@
 # Catatan-belajar-CEH-Practical
 Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya dalam memahami materi Certified Ethical Hacker (CEH) Practical.
 
-1. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
-2. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
-3. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
-4. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555
-5. Cara menggunakan OpenVAS: login to OpenVAS and do the following
+1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
+2. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
+3. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
+4. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
+5. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555
+6. Cara menggunakan OpenVAS: login to OpenVAS and do the following
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
       ![OpenVAS interface 1](https://github.com/user-attachments/assets/20a88f49-9d00-48e9-b0f1-0d7d6140bd19)
 
@@ -19,7 +20,12 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
      ![OpenVAS interface 4](https://github.com/user-attachments/assets/28cbf9e0-f4c1-4cf1-ae97-4eb3d4ec0f6c)
 
    - Click on any vulnerability under the Vulnerability column to view its detailed information.
- 6. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
- 7. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
- 8. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap
-
+ 7. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
+ 8. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
+ 9. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
+ 10. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
+ 11. study module 7 malware threats
+ 12. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: https://github.com/curlew/peinfo
+ 13. Pelajari cara menggunakan wireshark untuk mencari IP sumber serangan DDOS --> Module 10: Denial of service
+ 14. Pelajari kembali Module 15 SQL injection attacks
+ 15. 
