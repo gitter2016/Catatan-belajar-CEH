@@ -28,4 +28,10 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  12. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: https://github.com/curlew/peinfo
  13. Pelajari cara menggunakan wireshark untuk mencari IP sumber serangan DDOS --> Module 10: Denial of service
  14. Pelajari kembali Module 15 SQL injection attacks
- 15. 
+ 15. Menganalisis sebuah web dengan memanfaatkan fitur view page source
+ 16. Melakukan exploitasi terhadap sebuah web yg memiliki vulnerability --> use Nikto/zapproxy to scan the web.  How to use metasploit to exploit (https://www.oreilly.com/library/view/hands-on-web-penetration/9781789953527/7a4d442c-493b-4cae-9962-28eae680bf47.xhtml)
+ 17. Belajar DVWA: (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
+ 18. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
+ 19. Pelajari cara decrypt file menggunakan veracrypt
+ 20. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
+ 21. Pelajari cara 
