@@ -25,7 +25,7 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  9. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
  10. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
  11. study module 7 malware threats
- 12. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: [https://github.com/curlew/peinfo](https://www.majorgeeks.com/files/details/peinfo.html#google_vignette)
+ 12. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: (https://www.majorgeeks.com/files/details/peinfo.html#google_vignette)
  13. Pelajari cara menggunakan wireshark untuk mencari IP sumber serangan DDOS --> Module 10: Denial of service
  14. Pelajari kembali Module 15 SQL injection attacks
  15. Menganalisis sebuah web dengan memanfaatkan fitur view page source
