@@ -1,4 +1,4 @@
-# Catatan-belajar-CEH-Practical
+# Catatan-belajar-CEH
 Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya dalam memahami materi Certified Ethical Hacker (CEH) Practical.
 
 1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
