@@ -11,6 +11,8 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 8. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
 9. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html)
 10. Cara menggunakan OpenVAS: login to OpenVAS and do the following
+   -  docker run -d -p 443:443 –-name openvas mikesplain/openvas
+   -  Open browser and go to: https://127.0.0.1 (admin/admin)
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
       ![OpenVAS interface 1](https://github.com/user-attachments/assets/20a88f49-9d00-48e9-b0f1-0d7d6140bd19)
 
