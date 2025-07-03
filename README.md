@@ -26,12 +26,14 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  10. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
  11. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
  12. study module 7 malware threats --> static & dynamic malware analysis
- 13. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: (https://www.majorgeeks.com/files/details/peinfo.html#google_vignette)
- 14. Pelajari cara menggunakan wireshark untuk mencari IP sumber serangan DDOS --> Module 10: Denial of service
- 15. Pelajari kembali Module 15 SQL injection attacks
- 16. Menganalisis sebuah web dengan memanfaatkan fitur view page source
- 17. Melakukan exploitasi terhadap sebuah web yg memiliki vulnerability --> use Nikto/zapproxy to scan the web.  How to use metasploit to exploit (https://www.oreilly.com/library/view/hands-on-web-penetration/9781789953527/7a4d442c-493b-4cae-9962-28eae680bf47.xhtml)
- 18. Belajar DVWA: (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
- 19. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
- 20. Pelajari cara decrypt file menggunakan veracrypt
- 21. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
+     - **Malware Scanning using Hybrid Analysis** --> https://hybrid-analysis.com/ and the following tools: Any.Run (https://app.any.run) Valkyrie Sandbox (https://valkyrie.comodo.com), JOESandbox Cloud (https://www.joesandbox.com), Jotti (https://virusscan.jotti.org) to perform online malware scanning.
+     - **Malware analysis with DIE** --> https://github.com/horsicq/Detect-It-Easy
+ 14. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: (https://www.majorgeeks.com/files/details/peinfo.html#google_vignette)
+ 15. Pelajari cara menggunakan wireshark untuk mencari IP sumber serangan DDOS --> Module 10: Denial of service
+ 16. Pelajari kembali Module 15 SQL injection attacks
+ 17. Menganalisis sebuah web dengan memanfaatkan fitur view page source
+ 18. Melakukan exploitasi terhadap sebuah web yg memiliki vulnerability --> use Nikto/zapproxy to scan the web.  How to use metasploit to exploit (https://www.oreilly.com/library/view/hands-on-web-penetration/9781789953527/7a4d442c-493b-4cae-9962-28eae680bf47.xhtml)
+ 19. Belajar DVWA: (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
+ 20. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
+ 21. Pelajari cara decrypt file menggunakan veracrypt
+ 22. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
