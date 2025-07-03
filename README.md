@@ -2,7 +2,7 @@
 Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya dalam memahami materi Certified Ethical Hacker (CEH) Practical.
 
 1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
-2. Tutorial John the ripper: https://github.com/openwall/john
+2. Tutorial John the ripper --> Check Module 6 John the ripper
 3. Tutorial Hydra: https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/
 4. Hydra usage examples --> Module 13 Hacking Web Servers; Lab 2; Task 1
 5. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
