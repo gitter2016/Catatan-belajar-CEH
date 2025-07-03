@@ -10,7 +10,7 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 7. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
 8. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
 9. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html)
-10. Cara menggunakan OpenVAS: login to OpenVAS and do the following
+10. Cara menggunakan OpenVAS: login to OpenVAS and do the following --> module 5: Vulnerability analysis
    -  docker run -d -p 443:443 –-name openvas mikesplain/openvas
    -  Open browser and go to: https://127.0.0.1 (admin/admin)
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
