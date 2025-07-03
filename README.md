@@ -3,11 +3,12 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 
 1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
 2. Tutorial Hydra: https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/
-3. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
-4. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
-5. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
-6. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html)
-7. Cara menggunakan OpenVAS: login to OpenVAS and do the following
+3. Hydra usage examples --> Module 13; Lab 2; Task 1
+4. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
+5. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
+6. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
+7. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html)
+8. Cara menggunakan OpenVAS: login to OpenVAS and do the following
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
       ![OpenVAS interface 1](https://github.com/user-attachments/assets/20a88f49-9d00-48e9-b0f1-0d7d6140bd19)
 
@@ -21,11 +22,11 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
      ![OpenVAS interface 4](https://github.com/user-attachments/assets/28cbf9e0-f4c1-4cf1-ae97-4eb3d4ec0f6c)
 
    - Click on any vulnerability under the Vulnerability column to view its detailed information.
- 8. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
- 9. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
- 10. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
- 11. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
- 12. study module 7 malware threats --> static & dynamic malware analysis
+ 9. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
+ 10. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
+ 11. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
+ 12. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
+ 13. study module 7 malware threats --> static & dynamic malware analysis
      - **Malware Scanning using Hybrid Analysis** --> https://hybrid-analysis.com/ and the following tools: Any.Run (https://app.any.run) Valkyrie Sandbox (https://valkyrie.comodo.com), JOESandbox Cloud (https://www.joesandbox.com), Jotti (https://virusscan.jotti.org) to perform online malware scanning.
      - **Malware analysis with DIE** --> https://github.com/horsicq/Detect-It-Easy
  14. Mencari Entri Point dari malware yang harus di analisis...? Pelajari cara menggunakan PEinfo: (https://www.majorgeeks.com/files/details/peinfo.html#google_vignette)
