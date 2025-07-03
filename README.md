@@ -3,7 +3,7 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 
 1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
 2. Tutorial Hydra: https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/
-3. Hydra usage examples --> Module 13; Lab 2; Task 1
+3. Hydra usage examples --> Module 13 Hacking Web Servers; Lab 2; Task 1
 4. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
 5. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
 6. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
