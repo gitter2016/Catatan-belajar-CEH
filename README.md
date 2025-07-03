@@ -22,7 +22,7 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
      ![OpenVAS interface 4](https://github.com/user-attachments/assets/28cbf9e0-f4c1-4cf1-ae97-4eb3d4ec0f6c)
 
    - Click on any vulnerability under the Vulnerability column to view its detailed information.
- 9. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap
+ 9. Mencari mesin dgn OS linux yang memungkinkan untuk remote login dengan menggunakan angry ip scanner atau nmap --> https://phoenixnap.com/kb/nmap-commands
  10. steganography: https://i-3.co.id/cara-mendeteksi-dan-membuka-steganografi-menggunakan-stegspy-dan-openstego/
  11. scanning SMB services: https://nullprofile.com/scanning-smb-services-with-nmap --> bruteforce SMB with hydra: hydra -L user.txt -P pass.txt smb://IP. kemudian koneksi ke SMB menggunakan file explorer atau smb client.
  12. Belajar menggunakan PEinfo atau tools yang lain untuk melakukan malware analysis & mencare image version dari suatu malware
@@ -36,5 +36,6 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  18. Melakukan exploitasi terhadap sebuah web yg memiliki vulnerability --> use Nikto/zapproxy to scan the web.  How to use metasploit to exploit (https://www.oreilly.com/library/view/hands-on-web-penetration/9781789953527/7a4d442c-493b-4cae-9962-28eae680bf47.xhtml)
  19. Belajar DVWA: (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
  20. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
- 21. Pelajari cara decrypt file menggunakan veracrypt
+ 21. Pelajari cara decrypt file menggunakan veracrypt --> https://veracrypt.io/en/Beginner's%20Tutorial.html
  22. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
+ 23. Pelajari Module 16 Hacking Wireless Network
