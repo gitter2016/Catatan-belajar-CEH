@@ -7,12 +7,13 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
 4. Hydra usage examples --> Module 13 Hacking Web Servers; Lab 2; Task 1
 5. CEH Engage Walkthrough --> https://github.com/3ls3if/Cybersecurity-Notes/tree/main/readme/ceh-engage-walkthrough
 6. nmap cheat sheet: https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/; https://github.com/jasonniebauer/Nmap-Cheatsheet
-7. Sebelum menggunakan nmap untuk scanning specific IP, cek dulu port yang terbuka dengan command: nmap IP/subnet, contoh: nmap 192.168.1.0/24
-8. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
-9. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
-10. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
-11. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html) atau menggunakan phonesploit module 17 (Hacking Mobile Platforms)
-12. Cara menggunakan OpenVAS: login to OpenVAS and do the following --> module 5: Vulnerability analysis
+7. Sniffing of Login Credential or Password Capturing in Wireshark --> https://www.geeksforgeeks.org/ethical-hacking/sniffing-of-login-credential-or-password-capturing-in-wireshark/
+8. Sebelum menggunakan nmap untuk scanning specific IP, cek dulu port yang terbuka dengan command: nmap IP/subnet, contoh: nmap 192.168.1.0/24
+9. Contoh penggunaan nmap: nmap -Pn -p445 -A [IP]
+10. Cara mencari versi IMAP dengan nmap: nmap -Pn -p143 -A [IP]
+11. cara menggunakan hydra untuk bruteforce: hydra -L user.txt -P pass.txt rdp://IP
+12. mencari device mobile yang ada di subnet tertentu: search for IP that open port 5555; ADB --> ADB shell to connect to device and ADB pull to download the file (https://docs.ubports.com/en/latest/userguide/advanceduse/adb.html) atau menggunakan phonesploit module 17 (Hacking Mobile Platforms)
+13. Cara menggunakan OpenVAS: login to OpenVAS and do the following --> module 5: Vulnerability analysis
    -  docker run -d -p 443:443 –-name openvas mikesplain/openvas
    -  Open browser and go to: https://127.0.0.1 (admin/admin)
    -  The OpenVAS Dashboards appears. Navigate to Scans --> Tasks from the Menu bar.
