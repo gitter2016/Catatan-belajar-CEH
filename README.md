@@ -1,11 +1,11 @@
 # Catatan-belajar-CEH
 Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya dalam memahami materi Certified Ethical Hacker (CEH) Practical.
 
-1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question
+1. Cracking password dengan john: https://www.youtube.com/watch?v=6KC5R8I3bKQ, soal ctf.hackverse.com --> Round 2 warm-up question (contoh kasus john the ripper digunakan untuk cracking password zip file)
 2. Study resources: https://github.com/3ls3if/Cybersecurity-Notes/tree/main/readme/ceh-engage-walkthrough
 3. Reverse Engineering: https://medium.com/@blessingomogbehin/finding-the-address-of-the-entry-point-of-executable-vera-crypt-using-pe-explorer-tool-f953dddef0ac
-4. Tutorial John the ripper --> Check Module 6 John the ripper
-5. Tutorial Hydra: https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/
+4. Tutorial John the ripper --> Check Module 6 John the ripper 
+5. Tutorial Hydra: https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/ (hydra digunakan untuk cracking credential)
 6. Hydra usage examples --> Module 13 Hacking Web Servers; Lab 2; Task 1
 7. Hydra against ssh --> https://labex.io/tutorials/hydra-brute-force-ssh-in-hydra-549926
 8. CEH Engage Walkthrough --> https://github.com/3ls3if/Cybersecurity-Notes/tree/main/readme/ceh-engage-walkthrough
