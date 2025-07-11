@@ -48,4 +48,4 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  22. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
  23. Pelajari cara decrypt file menggunakan veracrypt --> https://veracrypt.io/en/Beginner's%20Tutorial.html
  24. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
- 25. Pelajari Module 16 Hacking Wireless Network
+ 25. Pelajari Module 16 Hacking Wireless Network --> https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
