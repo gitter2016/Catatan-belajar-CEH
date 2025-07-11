@@ -44,7 +44,7 @@ Repository ini dibuat sebagai catatan belajar dan dokumentasi perjalanan saya da
  18. Pelajari kembali Module 15 SQL injection attacks
  19. Menganalisis sebuah web dengan memanfaatkan fitur view page source
  20. Melakukan exploitasi terhadap sebuah web yg memiliki vulnerability --> use Nikto/zapproxy to scan the web.  How to use metasploit to exploit (https://www.oreilly.com/library/view/hands-on-web-penetration/9781789953527/7a4d442c-493b-4cae-9962-28eae680bf47.xhtml)
- 21. Belajar DVWA: (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
+ 21. Belajar DVWA: open DVWA web, set the security to low. then run command injection to get reverse shell --> (https://medium.com/@alexandrangeline/command-injection-sederhana-menggunakan-damn-vulnerable-web-application-dvwa-e50713c54b6f)
  22. Pelajari kembali wireshark untuk analisa iot devices --> MQTT protocol
  23. Pelajari cara decrypt file menggunakan veracrypt --> https://veracrypt.io/en/Beginner's%20Tutorial.html
  24. Pelajari cara cracking wifi password: https://predatech.co.uk/capturing-and-cracking-wpa-wpa2-wifi-passwords/
